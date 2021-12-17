@@ -21,7 +21,7 @@
     <p>She's the kind of person who likes to help others with their problems, whether it's a personal problem or relationship problem, she's there to help. Like this one time where I had a problem with my big brother and she's there to help me with it. I would love to help her with her problem if she wanted to.</p>
     <p>I could go on and write a lot of things about her, but I don't know how to describe it. In summary, she's a perfect girl I could ever ask for and I'm glad that I met her even though it was by accident. Hopefully that someday, I can tell her in person how much I really love her and hopefully this feeling would last for the rest of my life.</p><br>
     <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p>
-    <p>"The feelings were still fresh as if it all just happened yesterday"<br>-Makoto Shinkai Byosoku no 5 Centimeter</p><br>
+    <h4>"The feelings were still fresh as if it all just happened yesterday"<br>-Makoto Shinkai, Byosoku no 5 Centimeter</h4><br>
     <p style="text-align: center;">Idea by Khasyifa Fakhrunissa S.</p>
     <p style="text-align: center;">Coded by The Author himself</p>
 </article>
