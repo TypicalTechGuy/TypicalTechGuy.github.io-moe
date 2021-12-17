@@ -1,7 +1,5 @@
-<!DOCTYPE html> 
 <html lang="eng">
 <head>
-<title>UwU</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Fikhri">
@@ -24,8 +22,6 @@
     <p>I could go on and write lots of things about her, but I don't know how to describe it. In summary, she's a perfect girl I could ever asked for and I'm glad that I met her even though it was by accident. Hopefully that someday, I can tell her in person how much I really love her and this feeling would last for the rest of my life.</p><br>
     <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p>
 </article>
-</main>
-</div>
 
 <footer>
     <p style="text-align: center;">Idea by Khasyifa Fakhrunissa S.</p>
