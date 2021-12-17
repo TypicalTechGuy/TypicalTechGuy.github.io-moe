@@ -20,13 +20,11 @@
     <h3>3. A Caring Person</h3>
     <p>She's the kind of people who likes to help others with their problems, whether it's a personal problem or relationship problem, she's there to help. Like this one time where I had a problem with my big brother and she's there to help me with it. I would love to help her with her problem if she wants to.</p>
     <p>I could go on and write lots of things about her, but I don't know how to describe it. In summary, she's a perfect girl I could ever asked for and I'm glad that I met her even though it was by accident. Hopefully that someday, I can tell her in person how much I really love her and this feeling would last for the rest of my life.</p><br>
-    <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p>
-</article>
-
-<footer>
+    <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p><br>
     <p style="text-align: center;">Idea by Khasyifa Fakhrunissa S.</p>
     <p style="text-align: center;">Coded by The Author himself</p>
-</footer>
+</article>
+
 
 </body>
 </head>
