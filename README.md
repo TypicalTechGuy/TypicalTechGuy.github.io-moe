@@ -9,21 +9,7 @@
 
 <body>
 <article>
-    <h2 style="text-align: center;">Reasons to Love Her</h2>
-    <hr>
-    <h3 style="text-align: center;">By Fikhri Maheswara T.</h3>
-    <p>Hello there you beautiful human being, today I will tell you why I love this person in particular</p>
-    <h3>1. Appearance</h3>
-    <p>First off, appearance is important for first impression. When I saw her for the first time (by accident, we both met) and I was like "oh, she looks kinda cute and I wanna get along with her. Maybe she wouldn't mind it." Later when I met her for the second time after school, she smiled at me and in my mind, I said "Why did she just smile at me? More importantly, she looks really cute now that I think about it." Ever since that day, I've been looking forward to seeing her at school.</p>
-    <h3>2. Personality </h3>
-    <p>You see, I'm that type of guy who's hard to fall in love because I value personality more than appearance, and it just so happens that I really like her personality. The reason is that she's a really kind person, open-minded, willing to talk and listen to you. overall, she's a likeable person. Out of all this, I really like the fact that she's willing to talk about life or other things for hours, which is great since I like talking about things in life to someone that I like or really close with me and have a good time.</p>
-    <h3>3. A Caring Person</h3>
-    <p>She's the kind of person who likes to help others with their problems, whether it's a personal problem or relationship problem, she's there to help. Like this one time where I had a problem with my big brother and she's there to help me with it. I would love to help her with her problem if she wanted to.</p>
-    <p>I could go on and write a lot of things about her, but I don't know how to describe it. In summary, she's a perfect girl I could ever ask for and I'm glad that I met her even though it was by accident. Hopefully that someday, I can tell her in person how much I really love her and hopefully this feeling would last for the rest of my life.</p><br>
-    <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p>
-    <h4>"The feelings were still fresh as if it all just happened yesterday"<br>-Makoto Shinkai, Byosoku no 5 Centimeter</h4><br>
-    <p style="text-align: center;">Idea by Khasyifa Fakhrunissa S.</p>
-    <p style="text-align: center;">Coded by The Author himself</p>
+    <h2 style="text-align: center;">ding ding ding ding ding ding ding</h2>
 </article>
 
 
